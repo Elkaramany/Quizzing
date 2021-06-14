@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1017720724176",
+    "firebase_url": "https://optest-fd58a.firebaseio.com",
+    "project_id": "optest-fd58a",
+    "storage_bucket": "optest-fd58a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017720724176:android:d2acf8a9e04c5cc2731cd5",
+        "android_client_info": {
+          "package_name": "com.opmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017720724176-lirgtjmfj7j4e178n70g9f9nvpdugi3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opmath",
+            "certificate_hash": "92de1373b5328a9ed1e1bd352652c667c65af2b9"
+          }
+        },
+        {
+          "client_id": "1017720724176-maa3ghpluhainio2nhmu35ume17r49nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuMN3z0TB-wdcm1YPYM10vAedZ85w97o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017720724176-maa3ghpluhainio2nhmu35ume17r49nv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017720724176-8pjnkjk99i5lmmaf34nv80bvlf6amh1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.OPMath"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017720724176:android:265bbb10d6cf8889731cd5",
+        "android_client_info": {
+          "package_name": "com.pleasework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017720724176-maa3ghpluhainio2nhmu35ume17r49nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuMN3z0TB-wdcm1YPYM10vAedZ85w97o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017720724176-maa3ghpluhainio2nhmu35ume17r49nv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017720724176-8pjnkjk99i5lmmaf34nv80bvlf6amh1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.OPMath"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017720724176:android:e4afefaca91eb970731cd5",
+        "android_client_info": {
+          "package_name": "com.studentopmath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017720724176-maa3ghpluhainio2nhmu35ume17r49nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuMN3z0TB-wdcm1YPYM10vAedZ85w97o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017720724176-maa3ghpluhainio2nhmu35ume17r49nv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1017720724176-8pjnkjk99i5lmmaf34nv80bvlf6amh1o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.OPMath"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
